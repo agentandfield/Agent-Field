@@ -1,0 +1,28 @@
+[0712/213620.213:ERROR:process_info.cc(359)] UncheckedAllocate
+[0712/235653.397:ERROR:process_info.cc(359)] UncheckedAllocate
+[0712/235653.409:ERROR:process_info.cc(359)] UncheckedAllocate
+[0712/235722.497:ERROR:process_info.cc(359)] UncheckedAllocate
+[0713/000251.411:ERROR:process_info.cc(359)] UncheckedAllocate
+[0713/000350.538:ERROR:process_info.cc(359)] UncheckedAllocate
+[0713/002806.293:ERROR:process_info.cc(359)] UncheckedAllocate
+[0713/002806.425:ERROR:process_info.cc(359)] UncheckedAllocate
+[0713/002809.453:ERROR:process_info.cc(359)] UncheckedAllocate
+[0713/002809.458:ERROR:process_info.cc(359)] UncheckedAllocate
+[0713/002812.253:ERROR:process_info.cc(359)] UncheckedAllocate
+[0714/102958.282:ERROR:process_info.cc(359)] UncheckedAllocate
+[0714/102958.288:ERROR:process_info.cc(359)] UncheckedAllocate
+[0714/102958.289:ERROR:process_info.cc(359)] UncheckedAllocate
+[0714/103010.548:ERROR:process_info.cc(359)] UncheckedAllocate
+[0714/103010.910:ERROR:process_info.cc(359)] UncheckedAllocate
+[0714/103010.969:ERROR:process_info.cc(359)] UncheckedAllocate
+[0714/103011.004:ERROR:process_info.cc(359)] UncheckedAllocate
+[0714/103011.286:ERROR:process_reader_win.cc(182)] ResumeThread: De parameter is onjuist. (0x57)
+[0714/103011.287:ERROR:process_reader_win.cc(151)] SuspendThread: Toegang geweigerd. (0x5)
+[0714/103011.287:ERROR:process_reader_win.cc(151)] SuspendThread: Toegang geweigerd. (0x5)
+[0714/103011.287:ERROR:process_reader_win.cc(151)] SuspendThread: Toegang geweigerd. (0x5)
+[0714/103011.287:ERROR:process_reader_win.cc(151)] SuspendThread: Toegang geweigerd. (0x5)
+[0714/103011.287:ERROR:process_reader_win.cc(151)] SuspendThread: Toegang geweigerd. (0x5)
+[0714/103011.287:ERROR:process_reader_win.cc(151)] SuspendThread: Toegang geweigerd. (0x5)
+[0714/103011.287:ERROR:process_reader_win.cc(151)] SuspendThread: Toegang geweigerd. (0x5)
+[0714/103011.287:ERROR:exception_snapshot_win.cc(98)] thread ID 16100 not found in process
+[0714/180956.725:ERROR:process_info.cc(359)] UncheckedAllocate
