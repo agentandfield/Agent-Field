@@ -816,11 +816,11 @@ background-color: #f49c45;
   display: block;
   text-align: center;
   color:black;
-  margin-bottom: 4em;
-  margin-right: 2em;
-  margin-left: 2em;
+  margin-bottom: 1em;
+  margin-right: 1em;
+  margin-left: 1em;
   background-color: #a6bb65;
-  margin-top: 2em;
+  margin-top: 1em;
   padding-top: 2em;
   padding-bottom: 2em;
   border-style: solid;
@@ -933,9 +933,9 @@ border-width: 0.5em;
 .green2alt {
   color: #45424c;
   text-align: center;
-  padding-left: 1em;
-  padding-right: 1em;
-  font-size: 150%; 
+  padding-left: 8em;
+  padding-right: 8em;
+  font-size: 70%; 
   margin-bottom: 1em;
 
 }
@@ -1560,11 +1560,11 @@ background-color: #f49c45;
   display: block;
   text-align: center;
   color:black;
-  margin-bottom: 4em;
-  margin-right: 4em;
-  margin-left: 4em;
+  margin-bottom: 1em;
+  margin-right: 1em;
+  margin-left: 1em;
   background-color: #a6bb65;
-  margin-top: 7em;
+  margin-top: 1em;
   padding-top: 2em;
   padding-bottom: 2em;
   border-style: solid;
@@ -1675,9 +1675,9 @@ border-width: 0.5em;
 .green2alt {
   color: #45424c;
   text-align: center;
-  padding-left: 1em;
-  padding-right: 1em;
-  font-size: 150%; 
+  padding-left: 8em;
+  padding-right: 8em;
+  font-size: 70%; 
   margin-bottom: 1em;
 
 }
@@ -2090,9 +2090,9 @@ color: black;
 .green2alt {
   color: #45424c;
   text-align: center;
-  padding-left: 1em;
-  padding-right: 1em;
-  font-size: 150%;  
+  padding-left: 18em;
+  padding-right: 18em;
+  font-size: 70%;  
   margin-bottom: 1em;
 }
 
@@ -2311,11 +2311,11 @@ background-color: #f49c45;
   text-align: center;
 
   color:black;
-  margin-bottom: 4em;
-  margin-right: 4em;
-  margin-left: 4em;
+  margin-bottom: 1em;
+  margin-right: 1em;
+  margin-left: 1em;
   background-color: #a6bb65;
-  margin-top: 2em;
+  margin-top: 1em;
   padding-top: 2em;
   padding-bottom: 2em;
     border-style: solid;
@@ -2787,12 +2787,12 @@ color: black;
 
 }
 
-.green2alt {
+.green2alt {s
   color: #45424c;
   text-align: center;
-  padding-left: 1em;
-  padding-right: 1em;
-  font-size: 150%; 
+  padding-left: 34em;
+  padding-right:34em;
+  font-size: 70%; 
   margin-bottom: 1em;
 }
 
@@ -3007,11 +3007,11 @@ background-color: #f49c45;
   text-align: center;
 
   color:black;
-  margin-bottom: 4em;
-  margin-right: 10em;
-  margin-left: 10em;
+  margin-bottom: 3em;
+  margin-right: 3em;
+  margin-left: 3em;
   background-color: #a6bb65;
-  margin-top: 2em;
+  margin-top: 3em;
   padding-top: 2em;
   padding-bottom: 2em;
     border-style: solid;
@@ -3671,11 +3671,11 @@ background-color: #f49c45;
   text-align: center;
 
   color:black;
-  margin-bottom: 4em;
+  margin-bottom: 10em;
   margin-right: 10em;
   margin-left: 10em;
   background-color: #a6bb65;
-  margin-top: 2em;
+  margin-top: 10em;
   padding-top: 2em;
   padding-bottom: 2em;
     border-style: solid;
